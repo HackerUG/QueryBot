@@ -8,7 +8,7 @@ def load_document(pdf):
     Load a PDF and split it into chunks for efficient retrieval.
 
     :param pdf: PDF file to load
-    :return: List of chunks of text
+    :return: List of chunks of text to easy access.
     """
 
     loader = PyPDFLoader(pdf)
