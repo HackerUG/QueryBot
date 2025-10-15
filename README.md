@@ -40,8 +40,11 @@ A powerful open-source Streamlit web app that allows you to:
 </table>
 
 ## Demo Video
-
+<table>
+  <tr>
 <video src="img/demo.mp4" controls width="80%"></video>
+  </tr>
+</table>
 
 
 ## 🚀 Features
