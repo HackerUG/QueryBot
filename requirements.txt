@@ -5,10 +5,11 @@ python-dotenv
 transformers
 pypdf
 google-generativeai
-langchain==0.2.14
-langchain-core==0.2.26
-langchain-community==0.2.12
-langchain-huggingface==0.3.1
-langchain-google-genai==0.0.12
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langchain-google-genai
+google-api-core
 torch
 tiktoken
